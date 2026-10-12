@@ -1,0 +1,296 @@
+{
+  "task-d3a38076-14e9-4810-978a-1c05fe84d8a3": [
+    {
+      "message": "初始化 React TypeScript PWA 项目",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "1",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789088612498
+    },
+    {
+      "message": "建立领域模型与输入校验",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "2",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789090967098
+    },
+    {
+      "message": "建立领域模型与输入校验",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "2",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789091142163
+    },
+    {
+      "message": "实现 IndexedDB 数据层",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "3",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789093763706
+    },
+    {
+      "message": "实现 IndexedDB 数据层",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "3",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789094237418
+    },
+    {
+      "message": "实现重复任务调度服务",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "4",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789110456664
+    },
+    {
+      "message": "实现重复任务调度服务",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "4",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789110936500
+    },
+    {
+      "message": "实现任务流转与跨天规则",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "5",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789112786642
+    },
+    {
+      "message": "实现任务流转与跨天规则",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "5",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789113066839
+    },
+    {
+      "message": "开发移动端三阶段看板",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "6",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789114883540
+    },
+    {
+      "message": "开发移动端三阶段看板",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "6",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789114890923
+    },
+    {
+      "message": "开发灵活任务与子任务管理",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "7",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789116081151
+    },
+    {
+      "message": "开发灵活任务与子任务管理",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "7",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789117296334
+    },
+    {
+      "message": "开发固定任务模板页面",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "8",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789117645026
+    },
+    {
+      "message": "开发固定任务模板页面",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "8",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789118075832
+    },
+    {
+      "message": "开发历史与连续完成统计",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "9",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789118859113
+    },
+    {
+      "message": "开发历史与连续完成统计",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "9",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789119181160
+    },
+    {
+      "message": "执行任务（daily-flow-manager）: 10. 实现定期快照与版本化备份恢复",
+      "status": "PENDING",
+      "specName": "daily-flow-manager",
+      "specTaskId": "10",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_t": 1789120216029
+    },
+    {
+      "message": "执行任务（daily-flow-manager）: 10. 实现定期快照与版本化备份恢复",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "10",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "id": "spec-daily-flow-manager-10-1789120216088",
+      "_t": 1789120217168,
+      "symbolSpecTaskKey": "spec-daily-flow-manager-10-1789120216088",
+      "content": "执行任务（daily-flow-manager）: 10. 实现定期快照与版本化备份恢复",
+      "specTaskKey": "spec-daily-flow-manager-10-1789120216088"
+    },
+    {
+      "message": "实现定期快照与版本化备份恢复",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "10",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789120227194
+    },
+    {
+      "message": "实现定期快照与版本化备份恢复",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "10",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "_from": "specTask",
+      "_t": 1789120806621
+    },
+    {
+      "message": "执行任务（daily-flow-manager）: 10. 实现定期快照与版本化备份恢复",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "10",
+      "chatId": "task-d3a38076-14e9-4810-978a-1c05fe84d8a3",
+      "id": "spec-daily-flow-manager-10-1789120216088",
+      "_t": 1789120806745,
+      "symbolSpecTaskKey": "spec-daily-flow-manager-10-1789120216088",
+      "content": "执行任务（daily-flow-manager）: 10. 实现定期快照与版本化备份恢复",
+      "specTaskKey": "spec-daily-flow-manager-10-1789120216088"
+    }
+  ],
+  "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3": [
+    {
+      "specTaskId": "11",
+      "content": "实现 ICS 日历文件互导",
+      "lineNumber": 63,
+      "message": "执行任务（daily-flow-manager）: 11. 实现 ICS 日历文件互导",
+      "specName": "daily-flow-manager",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "_t": 1789905205348,
+      "status": "IN_PROGRESS"
+    },
+    {
+      "message": "执行任务（daily-flow-manager）: 12. 完成端到端验收与静态部署",
+      "status": "PENDING",
+      "specName": "daily-flow-manager",
+      "specTaskId": "12",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "_t": 1789905205358
+    },
+    {
+      "message": "实现 ICS 日历文件互导",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "11",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "_from": "specTask",
+      "_t": 1789905218699
+    },
+    {
+      "message": "实现 ICS 日历文件互导",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "11",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "_from": "specTask",
+      "_t": 1789905541808
+    },
+    {
+      "message": "执行任务（daily-flow-manager）: 11. 实现 ICS 日历文件互导",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "11",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "id": "spec-daily-flow-manager-11-1789905205364",
+      "_t": 1789905541893
+    },
+    {
+      "message": "执行任务（daily-flow-manager）: 12. 完成端到端验收与静态部署",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "12",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "id": "spec-daily-flow-manager-12-1789905205365",
+      "_t": 1789905543724,
+      "symbolSpecTaskKey": "spec-daily-flow-manager-12-1789905205365",
+      "content": "执行任务（daily-flow-manager）: 12. 完成端到端验收与静态部署",
+      "specTaskKey": "spec-daily-flow-manager-12-1789905205365"
+    },
+    {
+      "message": "完成端到端验收与静态部署",
+      "status": "IN_PROGRESS",
+      "specName": "daily-flow-manager",
+      "specTaskId": "12",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "_from": "specTask",
+      "_t": 1789905549526
+    },
+    {
+      "message": "完成端到端验收与静态部署",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "12",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "_from": "specTask",
+      "_t": 1789906075558
+    },
+    {
+      "message": "执行任务（daily-flow-manager）: 12. 完成端到端验收与静态部署",
+      "status": "FINISHED",
+      "specName": "daily-flow-manager",
+      "specTaskId": "12",
+      "chatId": "task-44d6da55-2ac8-4b1f-8fb8-cbfb551b92f3",
+      "id": "spec-daily-flow-manager-12-1789905205365",
+      "_t": 1789906075645,
+      "symbolSpecTaskKey": "spec-daily-flow-manager-12-1789905205365",
+      "content": "执行任务（daily-flow-manager）: 12. 完成端到端验收与静态部署",
+      "specTaskKey": "spec-daily-flow-manager-12-1789905205365"
+    }
+  ]
+}
